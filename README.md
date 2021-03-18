@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Maxime-Mouchard
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Je suis intéressé par le déveleppoment et le webdesign
+- 🌱 Je suis actuellement en dernière année de BTS SIO option SLAM en Alternance
+- 💞️ Je cherche actuellement une entreprise pour faire une licence professionnelle
+- 📫 Je suis joignable par mail: maximemouchard79@gmail.com
 
-<!---
-Maxime-Mouchard/Maxime-Mouchard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
