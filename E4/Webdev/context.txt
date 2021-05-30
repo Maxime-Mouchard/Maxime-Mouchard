@@ -1,0 +1,1 @@
+ Suite au développement des logiciels CHANNEL, il fallait webiser avec webdev des applications client/serveur fait avec windev pour les remettre au goût du jour et pour faciliter son utilisation. De plus cela encouragerait les client à passer en mode Saas
